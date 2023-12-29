@@ -17,7 +17,7 @@ Treinos exclusivos para você!</p>
 <br>
 
 <p align="center">
-  <img alt="Capa do projeto" src=".github/preview.jpg" width="50%">
+  <img alt="Capa do projeto" src="https://github.com/AllanBichler/Projeto2_stage2_RST/assets/110675388/4fa09ad0-a4ce-49ff-b780-ef7a5290b359" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,16 +25,18 @@ Treinos exclusivos para você!</p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Treine-me é uma plataforma dedicada a melhorar sua jornada de fitness, oferecendo treinos personalizados e exclusivos que visam não apenas transformar o corpo, mas também aprimorar significativamente a qualidade de vida e o desempenho.
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/VhL4ScLYox41xi0nniZYKi/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/xjOjrrQIM730wuTt81WB70/Explorer---Projeto-02-(Copy)?type=design&node-id=1%3A6&mode=dev" target="_blank">DESSE LINK</a>. É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
+
+
 
 ## :memo: Licença
 
